@@ -1,3 +1,5 @@
+package src.ex00;
+
 public class ArgumentProcessor {
     public static int getCount(String[] args){
         if (args.length != 1) {

@@ -1,3 +1,5 @@
+package src.ex00;
+
 public class Program {
 
     private static final String EGG = "Egg";

@@ -1,3 +1,5 @@
+package src.ex00;
+
 public class MyThread extends Thread {
     private int count;
     private String message;
